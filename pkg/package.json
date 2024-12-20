@@ -1,0 +1,9 @@
+{
+  "name": "ai-brain-model",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": ["ai", "brain", "intelligence", "neuron"],
+  "author": "",
+  "license": "MIT",
+  "description": ""
+}
